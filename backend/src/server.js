@@ -1,4 +1,5 @@
 const app = require('./app');
+const env = require('./config/env');
 
 const PORT = 5000;
 
